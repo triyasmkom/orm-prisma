@@ -1,0 +1,21 @@
+{
+  "name": "orm-prisma",
+  "version": "1.0.0",
+  "description": "## Memulai dengan prisma (Database Relational) ### PreRequest  - Install node.js https://nodejs.org/en/  - Database yang telah berjalan di host kita https://www.postgresql.org/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "prisma": "^4.14.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.14.1"
+  }
+}
